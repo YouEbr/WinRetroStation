@@ -11,7 +11,7 @@ Steps to have fun
 -----------------
 1- Download the latest release
 
-2- Unpack it
+2- Unpack it (you'll need [7zip](https://www.7-zip.org/))
 
 3- The directory structure should have following: (Windows explorer does not show ".lnk" extensions, instead it shows them as shortcut folders)
 
