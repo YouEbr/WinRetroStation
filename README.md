@@ -36,8 +36,6 @@ Steps to have fun
 </br>
 </br>
 </br>
-</br>
-</br>
 
 ## Steps to build</br>
 You only need to follow this steps if and only if you want to build your own version instead of using a pre-build version.
@@ -55,8 +53,7 @@ You only need to follow this steps if and only if you want to build your own ver
 5- Run .build(32/64).sh script</br>
 6- Go one level up in directory structure and find your build under .Release</br>
 
-</br>
-</br>
+
 </br>
 </br>
 </br>
