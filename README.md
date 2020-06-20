@@ -64,19 +64,3 @@ You only need to follow this steps if and only if you want to build your own ver
 [jrassa/EmulationStation](https://github.com/jrassa/EmulationStation)</br>
 [RetroArch Team](https://www.retroarch.com/index.php)</br>
 [HerbFargus/Portable-Game-Station](https://github.com/HerbFargus/Portable-Game-Station)</br>
-
-Following themes are incoperated:</br>
-[carbon](https://github.com/RetroPie/es-theme-carbon.git)</br>
-[pixel](https://github.com/RetroPie/es-theme-pixel.git)</br>
-[simple](https://github.com/RetroPie/es-theme-simple.git)</br>
-[clean-look](https://github.com/RetroPie/es-theme-clean-look.git)</br>
-[nbba](https://github.com/RetroPie/es-theme-nbba.git)</br>
-[tronkyfran](https://github.com/HerbFargus/es-theme-tronkyfran.git)</br>
-[cygnus](https://github.com/TheRobotFactory/es-theme-cygnus.git)</br>
-[indent](https://github.com/mattrixk/es-theme-indent.git)</br>
-[io](https://github.com/mattrixk/es-theme-io.git)</br>
-[spare](https://github.com/mattrixk/es-theme-spare)</br>
-
-
-
-
