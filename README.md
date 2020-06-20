@@ -9,7 +9,7 @@ A collection of scripts/links to create an up to date EmulationStation/RetroArch
 
 Steps to have fun
 -----------------
-1- Download the latest release
+1- Download the [latest release](https://github.com/YouEbr/WinRetroStation/releases/latest)
 
 2- Unpack it (you'll need [7zip](https://www.7-zip.org/))
 
