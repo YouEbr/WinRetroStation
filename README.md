@@ -50,8 +50,8 @@ You only need to follow this steps if and only if you want to build your own ver
 2- Go to .buildscripts folder.</br>
 3- Update build64.sh and build32.sh with RetroArch version that you want to use.</br>
 4- Update get-ra-cores(32/64)bit.sh if you need to add new cores or remove some.</br>
-5- Run .build(32/64).sh script</br>
-6- Go one level up in directory structure and find your build under .Release</br>
+5- Run build(32/64).sh script</br>
+6- Find your build under .Release</br>
 
 
 </br>

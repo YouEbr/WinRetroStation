@@ -1,10 +1,10 @@
 #!/bin/bash
 
 NAME=WinRetroStation
-VER=v1.0
-RETROVER=1.8.8
+VER=v1.0.1
+RETROVER=1.8.9
 
-ROOT=../.Release
+ROOT=.Release
 
 FULLNAME_64=${NAME}_64bit_${VER}
 FULL_PATH_64=${ROOT}/${FULLNAME_64}
@@ -17,8 +17,8 @@ echo "Pulling themes"
 echo ""
 echo "Creating ${FULL_PATH_64} and copying the basics into it"
 
-mkdir ${FULL_PATH_64}
-cp -rf ../Bios.lnk ../Emulators.lnk ../Games.lnk ../Launch.bat  ../EmulationStation get-latest-es.sh get-latest-retroarch_64bit.sh get-ra-cores_64bit.sh ${FULL_PATH_64}
+mkdir -p ${FULL_PATH_64}
+cp -rf ../Bios.lnk ../Emulators.lnk ../Games.lnk ../Launch_ES.bat  ../EmulationStation get-latest-es.sh get-latest-retroarch_64bit.sh get-ra-cores_64bit.sh ${FULL_PATH_64}
 
 #cleaning themes from main repo
 rm -rf ../EmulationStation/.emulationstation/themes/*/*
