@@ -20,7 +20,7 @@ Steps to have fun
 |&nbsp;   &nbsp;   &nbsp; \\---Emulators.lnk</br>
 |&nbsp;   &nbsp;   &nbsp; \\---Games.lnk</br>
 |&nbsp;   &nbsp;   &nbsp; \\---Bios.lnk</br>
-|&nbsp;   &nbsp;   &nbsp; \\---Launch.bat</br>
+|&nbsp;   &nbsp;   &nbsp; \\---Launch_ES.bat</br>
 
 4-Emulators, Games, and Bios are shortcuts (links).
 
