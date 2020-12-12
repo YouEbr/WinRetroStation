@@ -1,8 +1,8 @@
 #!/bin/bash
 
 NAME=WinRetroStation
-VER=v1.0.1
-RETROVER=1.8.9
+VER=v1.2.0
+RETROVER=1.9.0
 
 ROOT=.Release
 

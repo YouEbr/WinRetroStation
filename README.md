@@ -30,7 +30,7 @@ Steps to have fun
 
 7-Add your Bios files under "Bios" directory (depending on the console, might not need it. Refer to RetroArch documentation).
 
-8- Run "Launch", configure your Gamepad and have fun :)
+8- Run "Launch_ES", configure your Gamepad, and have fun :)
 
 
 </br>
